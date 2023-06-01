@@ -13,7 +13,7 @@ void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int))
 {
 	/* visit, check, add */
 	/* queue, enqueue, dequeue */
-	binary_tree_t *queue[1000],
+	binary_tree_t *queue[1000000],
 		      *current;
 	int front = 0,
 	    rear = 0;
