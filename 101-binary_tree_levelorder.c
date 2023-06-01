@@ -19,7 +19,7 @@ void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int))
 	    rear = 0;
 
 	if (tree == NULL ||func == NULL)
-		return (NULL);
+		return;
 
 	/* enqueue the root */
 	queue[rear++] = (binary_tree_t *)tree;
