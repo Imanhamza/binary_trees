@@ -1,15 +1,15 @@
 # 0x1D. C - Binary trees
 ---
 > A binary tree is a hierarchical data structure with nodes having at most two children, used for organizing and manipulating data efficiently through searching and sorting algorithms.   
-> Creating, deleting and mapulating nodes inside the binary tree is the core of the project
+> Creating, deleting and mapulating nodes inside the binary tree is the core of the project.
 ---
 
 ## Resources
-* [`Binary Tree`](https://en.wikipedia.org/wiki/Binary_tree).
-* [`Data Structures and Algorithms - Tree`](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm).
-* [`Tree Traversal`](https://www.programiz.com/dsa/tree-traversal).
-* [`Binary search tree`](https://en.wikipedia.org/wiki/Binary_search_tree).
-* [`Data structures: Binary Tree`](https://www.youtube.com/watch?v=H5JubkIy_p8).
+* [`Binary Tree.`](https://en.wikipedia.org/wiki/Binary_tree)
+* [`Data Structures and Algorithms - Tree.`](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+* [`Tree Traversal.`](https://www.programiz.com/dsa/tree-traversal)
+* [`Binary search tree.`](https://en.wikipedia.org/wiki/Binary_search_tree)
+* [`Data structures: Binary Tree.`](https://www.youtube.com/watch?v=H5JubkIy_p8)
 
 ---
 ## Used Data structures
